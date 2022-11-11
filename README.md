@@ -15,7 +15,7 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 
 ## Bot Libraries
 * [cl-telegram-bot](https://github.com/40ants/cl-telegram-bot) [30⭐] - Common LISP by [Artyom Bologov](https://github.com/aartaka).
-* [cycle-telegram](https://github.com/goodmind/cycle-telegram) - Cycle.js driver
+* [cycle-telegram](https://github.com/goodmind/cycle-telegram) [19⭐] - A Cycle.js Driver by [andretshurotshka](https://github.com/goodmind)
 * [etelegram](https://github.com/tnt-dev/etelegram) - Erlang
 * [haskell-telegram-api](http://github.com/klappvisor/haskell-telegram-api) - Haskell
 * [libtelegram](https://github.com/slowriot/libtelegram) - C++
