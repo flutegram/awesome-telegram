@@ -1,5 +1,6 @@
 [<img src="https://github.com/flutegram/awesome-telegram/blob/main/github_header.png?raw=true" align="center" width="850">](https://telegram.org/)
 
+
 <p align="center">
   <a href="https://github.com/search?q=telegram&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-116683-brightgreen.svg" />
@@ -11,6 +12,13 @@
     <img alt="Awesome" src="https://img.shields.io/twitter/url/https/twitter.com/telegram.svg?style=social&label=Follow%20%40telegram" />
   </a>
 </p>
+
+
+<a href="https://telegram.org/">Telegram</a> Telegram's API and code is open, and developers are welcome to create their own Telegram apps. We also have a Bot API, a platform for developers that allows anyone to easily build specialized tools for Telegram, integrate any services, and even accept payments from users around the world.
+
+And that's just the tip of the iceberg.
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
 
 # Awesome Telegram
 A curated list of [Telegram](https://telegram.org)-related projects and pages in alphabetical order.
