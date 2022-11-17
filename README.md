@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/search?q=telegram&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-254629-brightgreen.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-116683-brightgreen.svg" />
   </a>
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
    <a href="https://twitter.com/telegram">
-    <img alt="Awesome" src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&label=Follow%20%40blueaquilae" />
+    <img alt="Awesome" src="https://img.shields.io/twitter/url/https/twitter.com/telegram.svg?style=social&label=Follow%20%40telegram" />
   </a>
 </p>
 
