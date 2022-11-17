@@ -1,3 +1,5 @@
+[<img src="https://github.com/flutegram/awesome-telegram/blob/main/github_header.png?raw=true" align="center" width="850">](https://telegram.org/)
+
 # Awesome Telegram
 A curated list of [Telegram](https://telegram.org)-related projects and pages in alphabetical order.
 
