@@ -36,6 +36,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Bot Howto](https://medium.com/hackernoon/how-to-create-and-deploy-a-telegram-bot-2addd8aec6b4) - How to Create and Deploy a Telegram Bot
 - [Python Bot](https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e) - Create a Telegram bot, and send messages with Python
 - [Python Bot Easy](https://medium.com/free-code-camp/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4) - Learn to build your first bot in Telegram with Python
+- [NoCode Bot](https://medium.com/chatfuel-blog/how-to-create-your-own-telegram-bot-who-answer-its-users-without-coding-996de337f019) - Create your own Telegram bot who answer its users, without coding
+- [Telegram API](https://towardsdatascience.com/introduction-to-the-telegram-api-b0cd220dbed2) - Introduction to the Telegram API
+- [NoCode Bot Zapier](https://medium.com/chatfuel-blog/how-to-create-an-automated-bot-on-telegram-without-coding-using-zapier-and-paquebot-5a635a3b867b) - Create an automated bot on Telegram without coding, using Zapier and Paquebot
+- [Bot Notification](https://www.freecodecamp.org/news/telegram-push-notifications-58477e71b2c2/) - How to set up push notifications in your Telegram bot
+- [First Python Bot](https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/) - Learn to build your first bot in Telegram with Python
+- [Telegram Game](https://www.freecodecamp.org/news/how-to-code-chromes-t-rex-as-a-telegram-game-using-node-js-cbcf42f76f4b/) - How to code Chrome’s T-Rex as a Telegram game using Node.js
 
 ## API Documentation
 - [Bot API](https://core.telegram.org/bots/api)
