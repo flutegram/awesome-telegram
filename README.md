@@ -32,6 +32,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Articles
 - [Serverless Bot](https://medium.com/free-code-camp/how-to-build-a-server-less-telegram-bot-227f842f4706) - Built a serverless Telegram bot
+- [NodeJS Bot](https://codingwithmanny.medium.com/building-a-telegram-bot-with-nodejs-46660f05b42f) - Building A Telegram Bot With NodeJS
+- [Bot Howto](https://medium.com/hackernoon/how-to-create-and-deploy-a-telegram-bot-2addd8aec6b4) - How to Create and Deploy a Telegram Bot
+- [Python Bot](https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e) - Create a Telegram bot, and send messages with Python
+- [Python Bot Easy](https://medium.com/free-code-camp/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4) - Learn to build your first bot in Telegram with Python
 
 ## API Documentation
 - [Bot API](https://core.telegram.org/bots/api)
