@@ -43,6 +43,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [First Python Bot](https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/) - Learn to build your first bot in Telegram with Python
 - [Telegram Game](https://www.freecodecamp.org/news/how-to-code-chromes-t-rex-as-a-telegram-game-using-node-js-cbcf42f76f4b/) - How to code Chrome’s T-Rex as a Telegram game using Node.js
 
+### Presentation
+- [Telegram Silex](https://speakerdeck.com/ramcoelho/efficient-logging-with-silex-monolog-and-telegram) - Efficient Logging with Silex, Monolog & Telegram
+
 ## API Documentation
 - [Bot API](https://core.telegram.org/bots/api)
 - [MTProto](https://core.telegram.org/mtproto)
