@@ -45,6 +45,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Presentation
 - [Telegram Silex](https://speakerdeck.com/ramcoelho/efficient-logging-with-silex-monolog-and-telegram) - Efficient Logging with Silex, Monolog & Telegram
+- [Elixir Bot](https://speakerdeck.com/rastopyr/how-i-create-telegram-bot-on-elixir) - How i create Telegram bot on Elixir
+- [Kotlin Bot](https://speakerdeck.com/vjgarcia/telegram-bots-with-kotlin) - Telegram bots with Kotlin
 
 ## API Documentation
 - [Bot API](https://core.telegram.org/bots/api)
