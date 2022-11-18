@@ -31,6 +31,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Misc](#misc)
 
 ## Articles
+- [Serverless Bot](https://medium.com/free-code-camp/how-to-build-a-server-less-telegram-bot-227f842f4706) - Built a serverless Telegram bot
 
 ## API Documentation
 - [Bot API](https://core.telegram.org/bots/api)
