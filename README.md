@@ -48,6 +48,21 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Elixir Bot](https://speakerdeck.com/rastopyr/how-i-create-telegram-bot-on-elixir) - How i create Telegram bot on Elixir
 - [Kotlin Bot](https://speakerdeck.com/vjgarcia/telegram-bots-with-kotlin) - Telegram bots with Kotlin
 
+### Video
+- [Python Bot](https://www.youtube.com/watch?v=NwBWW8cNCP4) - How To Create A Telegram Bot With Python
+- [Bot Basic](https://www.youtube.com/watch?v=RD3SyYHDQpo) - Basics of creating a Telegram bot (with code/Python)
+- [Google App Script](https://www.youtube.com/watch?v=EGL1JaNoMME) - Create Simple Telegram Bot with Google Apps Script
+- [Java Bot](https://www.youtube.com/watch?v=XjOnp8TVNSQ) - How to create Telegram Bot in Java
+- [Nodejs Bot](https://www.youtube.com/watch?v=IlsygSzikOQ) - Building a Telegram Bot with Node.js in 10 minutes
+- [PoshGram Message](https://www.youtube.com/watch?v=OfyRVl7YThw) - PoshGram - a PowerShell module for sending Telegram messages
+- [Bot API](https://www.youtube.com/watch?v=UhZtrhV7t3U) - How to Create a Telegram Bot and Send Message via bot API
+- [Python Easy](https://www.youtube.com/watch?v=227uk4kDTM8) - How To Create A Telegram Bot Using Python
+- [1. PyCharm Installation](https://www.youtube.com/watch?v=YNY1OGnhSow) - Create a Telegram Bot in Python - 1 PyCharm & Python 3.8 Installation
+- [2. Bot Father](https://www.youtube.com/watch?v=URPIZZNr_2M) - Create a Telegram Bot in Python - 2 Bot Father
+- [3. Project Setup](https://www.youtube.com/watch?v=8nm1LJIijc0) - Create a Telegram Bot in Python - 3 Project Setup
+- [4. Command Message](https://www.youtube.com/watch?v=50npIbrXmnI) - Create a Telegram Bot in Python - 4 Commands & Messaging
+- [5. Custom Response](https://www.youtube.com/watch?v=-W25XN3F0IY) - Create a Telegram Bot in Python - 5 Custom Responses
+
 ## API Documentation
 - [Bot API](https://core.telegram.org/bots/api)
 - [MTProto](https://core.telegram.org/mtproto)
