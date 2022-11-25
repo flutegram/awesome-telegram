@@ -31,41 +31,48 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Misc](#misc)
 
 ## Articles
-- [Serverless Bot](https://medium.com/free-code-camp/how-to-build-a-server-less-telegram-bot-227f842f4706) - Built a serverless Telegram bot
-- [NodeJS Bot](https://codingwithmanny.medium.com/building-a-telegram-bot-with-nodejs-46660f05b42f) - Building A Telegram Bot With NodeJS
-- [Bot Howto](https://medium.com/hackernoon/how-to-create-and-deploy-a-telegram-bot-2addd8aec6b4) - How to Create and Deploy a Telegram Bot
-- [Python Bot](https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e) - Create a Telegram bot, and send messages with Python
-- [Python Bot Easy](https://medium.com/free-code-camp/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4) - Learn to build your first bot in Telegram with Python
-- [NoCode Bot](https://medium.com/chatfuel-blog/how-to-create-your-own-telegram-bot-who-answer-its-users-without-coding-996de337f019) - Create your own Telegram bot who answer its users, without coding
-- [Telegram API](https://towardsdatascience.com/introduction-to-the-telegram-api-b0cd220dbed2) - Introduction to the Telegram API
-- [NoCode Bot Zapier](https://medium.com/chatfuel-blog/how-to-create-an-automated-bot-on-telegram-without-coding-using-zapier-and-paquebot-5a635a3b867b) - Create an automated bot on Telegram without coding, using Zapier and Paquebot
-- [Bot Notification](https://www.freecodecamp.org/news/telegram-push-notifications-58477e71b2c2/) - How to set up push notifications in your Telegram bot
-- [First Python Bot](https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/) - Learn to build your first bot in Telegram with Python
-- [Telegram Game](https://www.freecodecamp.org/news/how-to-code-chromes-t-rex-as-a-telegram-game-using-node-js-cbcf42f76f4b/) - How to code Chrome’s T-Rex as a Telegram game using Node.js
+- [Serverless Bot](https://medium.com/free-code-camp/how-to-build-a-server-less-telegram-bot-227f842f4706) - Built a serverless Telegram bot.
+- [NodeJS Bot](https://codingwithmanny.medium.com/building-a-telegram-bot-with-nodejs-46660f05b42f) - Building A Telegram Bot With NodeJS.
+- [Bot Howto](https://medium.com/hackernoon/how-to-create-and-deploy-a-telegram-bot-2addd8aec6b4) - How to Create and Deploy a Telegram Bot.
+- [Python Bot](https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e) - Create a Telegram bot, and send messages with Python.
+- [Python Bot Easy](https://medium.com/free-code-camp/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4) - Learn to build your first bot in Telegram with Python.
+- [NoCode Bot](https://medium.com/chatfuel-blog/how-to-create-your-own-telegram-bot-who-answer-its-users-without-coding-996de337f019) - Create your own Telegram bot who answer its users, without coding.
+- [Telegram API](https://towardsdatascience.com/introduction-to-the-telegram-api-b0cd220dbed2) - Introduction to the Telegram API.
+- [NoCode Bot Zapier](https://medium.com/chatfuel-blog/how-to-create-an-automated-bot-on-telegram-without-coding-using-zapier-and-paquebot-5a635a3b867b) - Create an automated bot on Telegram without coding, using Zapier and Paquebot.
+- [Bot Notification](https://www.freecodecamp.org/news/telegram-push-notifications-58477e71b2c2/) - How to set up push notifications in your Telegram bot.
+- [First Python Bot](https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/) - Learn to build your first bot in Telegram with Python.
+- [Telegram Game](https://www.freecodecamp.org/news/how-to-code-chromes-t-rex-as-a-telegram-game-using-node-js-cbcf42f76f4b/) - How to code Chrome’s T-Rex as a Telegram game using Nodejs.
 
 ### Presentation
-- [Telegram Silex](https://speakerdeck.com/ramcoelho/efficient-logging-with-silex-monolog-and-telegram) - Efficient Logging with Silex, Monolog & Telegram
-- [Elixir Bot](https://speakerdeck.com/rastopyr/how-i-create-telegram-bot-on-elixir) - How i create Telegram bot on Elixir
-- [Kotlin Bot](https://speakerdeck.com/vjgarcia/telegram-bots-with-kotlin) - Telegram bots with Kotlin
+- [Telegram Silex](https://speakerdeck.com/ramcoelho/efficient-logging-with-silex-monolog-and-telegram) - Efficient Logging with Silex, Monolog & Telegram.
+- [Elixir Bot](https://speakerdeck.com/rastopyr/how-i-create-telegram-bot-on-elixir) - How i create Telegram bot on Elixir.
+- [Kotlin Bot](https://speakerdeck.com/vjgarcia/telegram-bots-with-kotlin) - Telegram bots with Kotlin.
 
 ### Video
-- [Python Bot](https://www.youtube.com/watch?v=NwBWW8cNCP4) - How To Create A Telegram Bot With Python
-- [Bot Basic](https://www.youtube.com/watch?v=RD3SyYHDQpo) - Basics of creating a Telegram bot (with code/Python)
-- [Google App Script](https://www.youtube.com/watch?v=EGL1JaNoMME) - Create Simple Telegram Bot with Google Apps Script
-- [Java Bot](https://www.youtube.com/watch?v=XjOnp8TVNSQ) - How to create Telegram Bot in Java
-- [Nodejs Bot](https://www.youtube.com/watch?v=IlsygSzikOQ) - Building a Telegram Bot with Node.js in 10 minutes
-- [PoshGram Message](https://www.youtube.com/watch?v=OfyRVl7YThw) - PoshGram - a PowerShell module for sending Telegram messages
-- [Bot API](https://www.youtube.com/watch?v=UhZtrhV7t3U) - How to Create a Telegram Bot and Send Message via bot API
-- [Python Easy](https://www.youtube.com/watch?v=227uk4kDTM8) - How To Create A Telegram Bot Using Python
-- [1. PyCharm Installation](https://www.youtube.com/watch?v=YNY1OGnhSow) - Create a Telegram Bot in Python - 1 PyCharm & Python 3.8 Installation
-- [2. Bot Father](https://www.youtube.com/watch?v=URPIZZNr_2M) - Create a Telegram Bot in Python - 2 Bot Father
-- [3. Project Setup](https://www.youtube.com/watch?v=8nm1LJIijc0) - Create a Telegram Bot in Python - 3 Project Setup
-- [4. Command Message](https://www.youtube.com/watch?v=50npIbrXmnI) - Create a Telegram Bot in Python - 4 Commands & Messaging
-- [5. Custom Response](https://www.youtube.com/watch?v=-W25XN3F0IY) - Create a Telegram Bot in Python - 5 Custom Responses
+- [Python Bot](https://www.youtube.com/watch?v=NwBWW8cNCP4) - How To Create A Telegram Bot With Python.
+- [Bot Basic](https://www.youtube.com/watch?v=RD3SyYHDQpo) - Basics of creating a Telegram bot (with code/Python).
+- [Google App Script](https://www.youtube.com/watch?v=EGL1JaNoMME) - Create Simple Telegram Bot with Google Apps Script.
+- [Java Bot](https://www.youtube.com/watch?v=XjOnp8TVNSQ) - How to create Telegram Bot in Java.
+- [Nodejs Bot](https://www.youtube.com/watch?v=IlsygSzikOQ) - Building a Telegram Bot with Node.js in 10 minutes.
+- [PoshGram Message](https://www.youtube.com/watch?v=OfyRVl7YThw) - PoshGram - a PowerShell module for sending Telegram messages.
+- [Bot API](https://www.youtube.com/watch?v=UhZtrhV7t3U) - How to Create a Telegram Bot and Send Message via bot API.
+- [Python Easy](https://www.youtube.com/watch?v=227uk4kDTM8) - How To Create A Telegram Bot Using Python.
+- [1. PyCharm Installation](https://www.youtube.com/watch?v=YNY1OGnhSow) - Create a Telegram Bot in Python - 1 PyCharm & Python 3.8 Installation.
+- [2. Bot Father](https://www.youtube.com/watch?v=URPIZZNr_2M) - Create a Telegram Bot in Python - 2 Bot Father.
+- [3. Project Setup](https://www.youtube.com/watch?v=8nm1LJIijc0) - Create a Telegram Bot in Python - 3 Project Setup.
+- [4. Command Message](https://www.youtube.com/watch?v=50npIbrXmnI) - Create a Telegram Bot in Python - 4 Commands & Messaging.
+- [5. Custom Response](https://www.youtube.com/watch?v=-W25XN3F0IY) - Create a Telegram Bot in Python - 5 Custom Responses.
 
-## API Documentation
-- [Bot API](https://core.telegram.org/bots/api)
-- [MTProto](https://core.telegram.org/mtproto)
+## Documentation
+
+### Official
+- [Telegram Bots](https://core.telegram.org/bots/api) - Bots are small applications that run entirely within the Telegram app.
+- [Telegram Database Library](https://core.telegram.org/tdlib) - TDLib is a cross-platform, fully functional library, to help third-party developers create their own Telegram client.
+- [MTProto Mobile Protocol](https://core.telegram.org/mtproto) - Telegram protocol for advanced developer who want to create their own Telegram client from scratch.
+- [TL-schema](https://core.telegram.org/schema) [ver 145] - Part of MTProto that serves to describe the used system of types, constructors, and existing functions.
+
+### Unofficial
+- [TL-schema](https://github.com/tdlib/td/blob/master/td/generate/scheme/telegram_api.tl) [ver 148] - More updated Teleram schema than official one.
 
 ## Bot Libraries
 - [cl-telegram-bot](https://github.com/40ants/cl-telegram-bot) [30⭐] - Common LISP by [Artyom Bologov](https://github.com/aartaka).
