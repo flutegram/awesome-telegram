@@ -23,7 +23,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Contents
 
 - [Articles](#articles)
-- [API Documentation](#api-documentation)
+- [Documentation](#documentation)
 - [Bot Libraries](#bot-libraries)
 - [Clients](#clients)
 - [MTProto implementations](#mtproto-implementations)
