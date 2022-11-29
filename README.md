@@ -31,6 +31,17 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Misc](#misc)
 
 ## Articles
+
+### Finance
+- [Beginner Money](https://www.youtube.com/watch?v=e_oWfumKPgk) - Make Money With Telegram For Beginners
+- [Bot Makes](https://www.youtube.com/watch?v=M9YKeor__8A) - This FREE Bot Makes You $700 a Day! (Make Money Online)
+- [Hi Dollars](https://www.youtube.com/watch?v=vJmFUXw8p40) - $21 for 2 Minutes – Make Money on WhatsApp and Telegram (Hi Dollars Review)
+- [Crypto Bot](https://www.youtube.com/watch?v=I9HEllHja5A) - Make $21 Per 2 Minutes On WhatsApp And Telegram (Make Money Online 2022)
+- [Paid Channel](https://www.youtube.com/watch?v=ReKqbkeJfV8) - How to Create a Paid Telegram Channel in 2022 - (Make Money on Telegram)
+- [Business Channel](https://www.youtube.com/watch?v=Hd2eDkP-238) - How To Create A Paid Telegram Channel For Business
+- [Trade Bot](https://www.youtube.com/watch?v=zzIBNSSHKQA) - Make Money With Telegram Football Smart Trade Bot
+
+### Tutorial
 - [Serverless Bot](https://medium.com/free-code-camp/how-to-build-a-server-less-telegram-bot-227f842f4706) - Built a serverless Telegram bot.
 - [NodeJS Bot](https://codingwithmanny.medium.com/building-a-telegram-bot-with-nodejs-46660f05b42f) - Building A Telegram Bot With NodeJS.
 - [Bot Howto](https://medium.com/hackernoon/how-to-create-and-deploy-a-telegram-bot-2addd8aec6b4) - How to Create and Deploy a Telegram Bot.
