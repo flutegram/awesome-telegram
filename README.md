@@ -81,7 +81,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Telegram Database Library](https://core.telegram.org/tdlib) - TDLib is a cross-platform, fully functional library, to help third-party developers create their own Telegram client.
 - [MTProto Mobile Protocol](https://core.telegram.org/mtproto) - Telegram protocol for advanced developer who want to create their own Telegram client from scratch.
 - [TL-schema](https://core.telegram.org/schema) [ver 145] - Part of MTProto that serves to describe the used system of types, constructors, and existing functions.
-- [TL Langpack](https://translations.telegram.org/) - Telegram api lenguage pack code.
+- [TL Langpack](https://translations.telegram.org/) - Telegram api language pack keys.
 
 ### Unofficial
 - [TL-schema](https://github.com/tdlib/td/blob/master/td/generate/scheme/telegram_api.tl) [ver 148] - More updated Teleram schema than official one.
