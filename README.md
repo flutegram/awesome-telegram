@@ -84,7 +84,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [TL Langpack](https://translations.telegram.org/) - Telegram api language pack keys.
 
 ### Unofficial
-- [TL-schema](https://github.com/tdlib/td/blob/master/td/generate/scheme/telegram_api.tl) [ver 148] - More updated Teleram schema than official one.
+- [TL-schema](https://github.com/tdlib/td/blob/master/td/generate/scheme/telegram_api.tl) [ver 150] - More updated Teleram schema than official one.
 
 ## Bot Libraries
 - [cl-telegram-bot](https://github.com/40ants/cl-telegram-bot) [30⭐] - Common LISP by [Artyom Bologov](https://github.com/aartaka).
